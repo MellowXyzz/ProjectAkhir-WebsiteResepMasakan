@@ -14,7 +14,7 @@
 
 <body class="bg-cover bg-center bg-no-repeat" style="background-image: url('./assets/background2.jpg');">
 
-    <div class="flex items-center justify-center min-h-screen backdrop-blur-sm">
+    <div class="flex items-center justify-center min-h-screen bg-black/40 backdrop-blur-sm">
         <div class="relative flex flex-col m-6 space-y-8 bg-white shadow-2xl rounded-2xl md:flex-row md:space-y-0">
 
             <div class="flex flex-col justify-center p-8 md:p-14">
